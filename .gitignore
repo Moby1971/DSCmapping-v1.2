@@ -25,3 +25,4 @@ functions/dscutils/vol2mat.m
 @dsc/dsc.m
 functions/registration/registerImages.m
 manual/DSCmapping - manual.pages
+.DS_Store
