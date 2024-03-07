@@ -22,3 +22,6 @@ functions/dscutils/minloglikDNP.m
 functions/dscutils/mour_Psig_v1.m
 functions/dscutils/MRes.m
 functions/dscutils/vol2mat.m
+@dsc/dsc.m
+functions/registration/registerImages.m
+manual/DSCmapping - manual.pages
