@@ -1,1 +1,1 @@
-DSCmapp_version=1.0.4
+DSCmapp_version=1.1.0
