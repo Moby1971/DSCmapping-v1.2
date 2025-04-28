@@ -31,3 +31,11 @@ manual/DSCmapping - manual.pages
 .DS_Store
 .DS_Store
 .DS_Store
+functions/various/niftii/dicm2nii.m
+functions/various/niftii/dicm_dict.m
+functions/various/niftii/dicm_hdr.m
+functions/various/niftii/dicm_img.m
+functions/various/niftii/dicm_save.m
+functions/various/niftii/nii_tool.m
+functions/various/pdist2.m
+functions/various/pdist2.m

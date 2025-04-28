@@ -61,7 +61,7 @@ function D = pdist2( X, Y, metric )
 % Copyright 2014 Piotr Dollar.  [pdollar-at-gmail.com]
 % Licensed under the Simplified BSD License [see external/bsd.txt]
 
-if( nargin<3 || isempty(metric) ); metric=0; end;
+if( nargin<3 || isempty(metric) ); metric=0; end
 
 switch metric
   case {0,'sqeuclidean'}
