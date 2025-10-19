@@ -40,3 +40,5 @@ functions/various/niftii/nii_tool.m
 functions/various/pdist2.m
 functions/various/pdist2.m
 functions/various/pdist2.m
+functions/various/lipariColorMap.m
+functions/various/naviaColorMap.m
